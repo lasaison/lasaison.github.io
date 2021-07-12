@@ -450,7 +450,7 @@ body:not(.template-index) .main-content {
 
 html {
   font-size: 62.5%;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 body {
@@ -528,7 +528,7 @@ body {
   width: auto;
   background-color: #ffffff;
   border-radius: 0;
-  color: #000000;
+  color: #ffffff;
   border: 2px solid #ffffff;
   font-size: 1.4rem;
   font-weight: 700;
@@ -605,7 +605,7 @@ body {
   position: relative;
   min-height: 60px;
   width: 100%;
-  background-color: #000000;
+  background-color: #ffffff;
   z-index: 10;
 }
 
@@ -869,7 +869,7 @@ html.supports-no-js .site-header__logo-image--transparent {
   overflow: hidden;
   min-height: 300px;
   max-height: calc(100vh - 35px);
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .slideshow--full .slideshow {
@@ -1521,7 +1521,7 @@ function updateWsgAjax(){
       <main class="content-for-layout" id="MainContent" role="main">
         <!-- BEGIN content_for_index --><div id="shopify-section-slideshow" class="shopify-section index-section"><style>
     #Slideshow-slideshow .slideshow__overlay::before {
-      background-color: #000000;
+      background-color: #ffffff;
       opacity: 0.05;
     }
 
@@ -2055,7 +2055,7 @@ function updateWsgAjax(){
 <style>
   .feature-row--feature-row-0 {
     
-      background-color: #000000;
+      background-color: #ffffff;
     
   }
 
@@ -2117,7 +2117,7 @@ function updateWsgAjax(){
 <style>
   .feature-row--1586258801236 {
     
-      background-color: #000000;
+      background-color: #ffffff;
     
   }
 
@@ -2179,7 +2179,7 @@ function updateWsgAjax(){
 <style>
   .feature-row--1587884293635 {
     
-      background-color: #000000;
+      background-color: #ffffff;
     
   }
 
@@ -2241,7 +2241,7 @@ function updateWsgAjax(){
 <style>
   .feature-row--1587884589966 {
     
-      background-color: #000000;
+      background-color: #ffffff;
     
   }
 
