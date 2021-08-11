@@ -1,0 +1,1297 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+        
+    <meta charset="utf-8">
+        <link rel="preload" as="font" href="/themes/maison-colibri/assets/css/font/OpenSans_Regular.woff2" type="font/woff2" crossorigin />
+    <link rel="preload" as="font" href="/themes/maison-colibri/assets/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" type="font/woff2" crossorigin />
+    <link rel="preload" as="font" href="/themes/maison-colibri/assets/css/font/Futura_Book.woff2" type="font/woff2" crossorigin />
+
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+    <title>Contact</title>
+    <script data-keepinline="true">
+/* datalayer */
+dataLayer = [];
+dataLayer.push({"pageCategory":"cms","ecommerce":{"currencyCode":"EUR"},"userLogged":0,"google_tag_params":{"ecomm_pagetype":"other"}});
+/* call to GTM Tag */
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N7DT467');
+
+/* async call to avoid cache system for dynamic data */
+dataLayer.push({
+  'event': 'datalayer_ready'
+});
+</script>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+        
+            
+
+
+
+
+    <meta property="og:title" content="Contact"/>
+    <meta property="og:url" content="https://www.maison-colibri.com/en/info/contact"/>
+    <meta property="og:site_name" content="Maison Colibri"/>
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/img/pianezza-logo-1560763925.jpg" />
+
+
+
+
+
+    
+
+
+	    	<link rel="alternate" hreflang="fr" href="http://www.maison-colibri.com/fr/info/contact" />
+    	
+
+
+            <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    
+
+
+
+
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1563447531">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1563447531">
+        
+
+
+            <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+        
+
+
+    
+      <link rel="stylesheet" href="https://www.maison-colibri.com/themes/maison-colibri/assets/cache/theme-18e6d1512.css" type="text/css" media="all">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"   rel="stylesheet">
+
+  <script src="/themes/maison-colibri/assets/js/wave-particulier.js" ></script>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<script type="text/javascript" src="/themes/maison-colibri/assets/tarteaucitron/tarteaucitron.js"></script>
+
+
+
+
+    
+
+  <script type="text/javascript">
+        var TNTOfficiel = {"timestamp":1628610152982.079,"module":{"name":"tntofficiel","title":"TNT","version":"1.0.11","context":true,"ready":true},"config":{"google":{"map":{"url":"https:\/\/maps.googleapis.com\/maps\/api\/js","data":{"v":"3.exp","key":"AIzaSyB58iLYzbbQIPnh8vGMnCc9tihSqnyT368"},"default":{"lat":46.827742,"lng":2.835644,"zoom":6}}}},"translate":{"validateDeliveryAddress":"Validate your delivery address","unknownPostalCode":"Unknown postal code","validatePostalCodeDeliveryAddress":"Please edit and validate the postal code of your delivery address.","unrecognizedCity":"Unrecognized city","selectCityDeliveryAddress":"Please select the city from your delivery address.","postalCode":"Postal code","city":"City","validate":"Validate","validateAdditionalCarrierInfo":"Please confirm the form with additional information for the carrier.","errorDownloadingHRA":"Error while downloading the HRA list. Please contact the support.","errorInvalidPhoneNumber":"The phone number must be 10 digits","errorInvalidEMail":"The email is invalid","errorNoDeliveryOptionSelected":"No delivery options selected.","errorNoDeliveryAddressSelected":"No delivery address selected.","errorNoDeliveryPointSelected":"No delivery point selected.","errorUnknow":"An error has occurred.","errorTechnical":"A technical error occurred.","errorConnection":"A connection error occurred."},"link":{"controller":"cmscontroller","front":{"shop":"https:\/\/www.maison-colibri.com\/","module":{"boxDeliveryPoints":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/carrier?action=boxDeliveryPoints","saveProductInfo":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/carrier?action=saveProductInfo","checkPaymentReady":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/carrier?action=checkPaymentReady","storeReceiverInfo":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/address?action=storeReceiverInfo","getAddressCities":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/address?action=getCities","updateAddressDelivery":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/address?action=updateDeliveryAddress","checkAddressPostcodeCity":"https:\/\/www.maison-colibri.com\/en\/module\/tntofficiel\/address?action=checkPostcodeCity"},"page":{"order":"https:\/\/www.maison-colibri.com\/en\/order"}},"back":null,"image":"\/modules\/tntofficiel\/views\/img\/"},"country":{"list":{"3":{"id_country":"3","id_lang":"2","name":"Belgique","id_zone":"1","id_currency":"0","iso_code":"BE","call_prefix":"32","active":"1","contains_states":"0","need_identification_number":"0","need_zip_code":"1","zip_code_format":"NNNN","display_tax_label":"1","country":"Belgique","zone":"Europe"},"8":{"id_country":"8","id_lang":"2","name":"France","id_zone":"1","id_currency":"0","iso_code":"FR","call_prefix":"33","active":"1","contains_states":"0","need_identification_number":"0","need_zip_code":"1","zip_code_format":"NNNNN","display_tax_label":"1","country":"France","zone":"Europe"}}},"carrier":{"list":{"250":{"account_type":"*","carrier_type":"ENTERPRISE"},"320":{"account_type":"LPSE ESSENTIEL","carrier_type":"INDIVIDUAL"}}},"cart":{"isCarrierListDisplay":false},"order":{"isTNT":false}};
+        var elementorFrontendConfig = {"isEditMode":"","stretchedSectionContainer":"","is_rtl":""};
+        var instagramnew_DISPLAY_CAROUSEL = "1";
+        var instagramnew_LIMIT = "8";
+        var instagramnew_TYPE = "user";
+        var instagramnew_USERID = "maison_colibri";
+        var iqitTheme = {"rm_sticky":"up","rm_breakpoint":0,"op_preloader":"0","cart_style":"side","cart_confirmation":"open","h_layout":"4","f_fixed":"","f_layout":"3","h_absolute":"0","h_sticky":"0","hw_width":"inherit","h_search_type":"box","pl_lazyload":true,"pl_infinity":false,"pl_rollover":true,"pl_crsl_autoplay":false,"pl_slider_ld":2,"pl_slider_d":2,"pl_slider_t":1,"pl_slider_p":1,"pp_thumbs":"bottom","pp_zoom":"inner","pp_tabs":"tabh"};
+        var iqitcountdown_days = "d.";
+        var iqitfdc_from = 0;
+        var iqitmegamenu = {"sticky":"false","containerSelector":"#wrapper > .container"};
+        var iqitreviews = [];
+        var iqitwishlist = {"nbProducts":0};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"\u20ac0.00"},"total_including_tax":{"type":"total","label":"Total (tax incl.)","amount":0,"value":"\u20ac0.00"},"total_excluding_tax":{"type":"total","label":"Total (tax excl.)","amount":0,"value":"\u20ac0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"\u20ac0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":"Free"},"tax":{"type":"tax","label":"Included taxes","amount":0,"value":"\u20ac0.00"}},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":2},"page":{"title":"","canonical":null,"meta":{"title":"Contact","description":"","keywords":"","robots":"index"},"page_name":"cms","body_classes":{"lang-en":true,"lang-rtl":false,"country-FR":true,"currency-EUR":true,"layout-full-width":true,"page-cms":true,"tax-display-enabled":true,"cms-id-9":true},"admin_notifications":[]},"shop":{"name":"Maison Colibri","logo":"\/img\/pianezza-logo-1560763925.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/www.maison-colibri.com\/","current_url":"https:\/\/www.maison-colibri.com\/en\/info\/contact","shop_domain_url":"https:\/\/www.maison-colibri.com","img_ps_url":"https:\/\/www.maison-colibri.com\/img\/","img_cat_url":"https:\/\/www.maison-colibri.com\/img\/c\/","img_lang_url":"https:\/\/www.maison-colibri.com\/img\/l\/","img_prod_url":"https:\/\/www.maison-colibri.com\/img\/p\/","img_manu_url":"https:\/\/www.maison-colibri.com\/img\/m\/","img_sup_url":"https:\/\/www.maison-colibri.com\/img\/su\/","img_ship_url":"https:\/\/www.maison-colibri.com\/img\/s\/","img_store_url":"https:\/\/www.maison-colibri.com\/img\/st\/","img_col_url":"https:\/\/www.maison-colibri.com\/img\/co\/","img_url":"https:\/\/www.maison-colibri.com\/themes\/maison-colibri\/assets\/img\/","css_url":"https:\/\/www.maison-colibri.com\/themes\/maison-colibri\/assets\/css\/","js_url":"https:\/\/www.maison-colibri.com\/themes\/maison-colibri\/assets\/js\/","pic_url":"https:\/\/www.maison-colibri.com\/upload\/","pages":{"address":"https:\/\/www.maison-colibri.com\/en\/address","addresses":"https:\/\/www.maison-colibri.com\/en\/addresses","authentication":"https:\/\/www.maison-colibri.com\/en\/login","cart":"https:\/\/www.maison-colibri.com\/en\/cart","category":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=category","cms":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=cms","contact":"https:\/\/www.maison-colibri.com\/en\/contact-us","discount":"https:\/\/www.maison-colibri.com\/en\/discount","guest_tracking":"https:\/\/www.maison-colibri.com\/en\/guest-tracking","history":"https:\/\/www.maison-colibri.com\/en\/order-history","identity":"https:\/\/www.maison-colibri.com\/en\/identity","index":"https:\/\/www.maison-colibri.com\/en\/","my_account":"https:\/\/www.maison-colibri.com\/en\/my-account","order_confirmation":"https:\/\/www.maison-colibri.com\/en\/order-confirmation","order_detail":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=order-detail","order_follow":"https:\/\/www.maison-colibri.com\/en\/order-follow","order":"https:\/\/www.maison-colibri.com\/en\/order","order_return":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=order-return","order_slip":"https:\/\/www.maison-colibri.com\/en\/credit-slip","pagenotfound":"https:\/\/www.maison-colibri.com\/en\/page-not-found","password":"https:\/\/www.maison-colibri.com\/en\/password-recovery","pdf_invoice":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/www.maison-colibri.com\/en\/prices-drop","product":"https:\/\/www.maison-colibri.com\/en\/index.php?controller=product","search":"https:\/\/www.maison-colibri.com\/en\/search","sitemap":"https:\/\/www.maison-colibri.com\/en\/Sitemap","stores":"https:\/\/www.maison-colibri.com\/en\/stores","supplier":"https:\/\/www.maison-colibri.com\/en\/supplier","register":"https:\/\/www.maison-colibri.com\/en\/login?create_account=1","order_login":"https:\/\/www.maison-colibri.com\/en\/order?login=1"},"alternative_langs":{"fr":"http:\/\/www.maison-colibri.com\/fr\/info\/contact","en-us":"http:\/\/www.maison-colibri.com\/en\/info\/contact"},"theme_assets":"\/themes\/maison-colibri\/assets\/","actions":{"logout":"https:\/\/www.maison-colibri.com\/en\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-small_default.jpg","width":98,"height":127},"cart_default":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-cart_default.jpg","width":125,"height":162},"home_default":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-home_default.jpg","width":236,"height":305},"large_default":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-large_default.jpg","width":381,"height":492},"medium_default":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-medium_default.jpg","width":452,"height":584},"thickbox_default":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-thickbox_default.jpg","width":1100,"height":1422}},"small":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-small_default.jpg","width":98,"height":127},"medium":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-large_default.jpg","width":381,"height":492},"large":{"url":"https:\/\/www.maison-colibri.com\/img\/p\/en-default-thickbox_default.jpg","width":1100,"height":1422},"legend":""}},"configuration":{"display_taxes_label":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Discount"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"https:\/\/www.maison-colibri.com\/en\/"},{"title":"Contact","url":"https:\/\/www.maison-colibri.com\/en\/info\/contact"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/en\/info\/contact"},"time":1628610152,"static_token":"aee7014290134b241ff4e531be6ede0a","token":"11d11d82e343a3a184439b6d329e833b"};
+      </script>
+<script>var waveScrollTo=false</script>
+
+
+
+
+<script type="text/javascript">
+    var _PS_URL_PERSONNALISATION_ = "https://personnalisation.maison-colibri.com/";
+</script>
+
+
+<script type="text/javascript">
+    var currentDomain = "https://www.maison-colibri.com";
+
+    var cookieDomain = ".maison-colibri.com";
+    if (currentDomain.indexOf("localhost") > 0) {
+        cookieDomain = "localhost";
+    }
+    //Test domain
+    else if (currentDomain.indexOf("maison-colibri.tld") > 0) {
+        cookieDomain = ".maison-colibri.tld";
+    }
+
+    tarteaucitron.init({
+        "privacyUrl": "", /* Privacy policy url */
+
+        "hashtag": "#cookies", /* Open the panel with this hashtag */
+        "cookieName": "tartaucitron", /* Cookie name */
+
+        "orientation": "bottom", /* Banner position (top - bottom) */
+        "showAlertSmall": false, /* Show the small banner on bottom right */
+        "cookieslist": true, /* Show the cookie list */
+
+        "adblocker": false, /* Show a Warning if an adblocker is detected */
+        "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+        "highPrivacy": true, /* Disable auto consent */
+        "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+        "removeCredit": true, /* Remove credit link */
+        "moreInfoLink": true, /* Show more info link */
+        "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+
+        "cookieDomain": cookieDomain, /* Shared cookie for multisite */
+        "logo": "https://www.maison-colibri.com//themes/maison-colibri/assets/img/logo-colibri.jpg",               
+        "readmoreLink": currentDomain + "/fr/info/rgpd", /* Change the default readmore link */
+        "closePopup": true, /* Show a close X on the banner *
+         "showIcon": false, /* Show cookie icon to manage cookies */
+        "orientation": "middle" /* Banner position (top - bottom) */
+    });
+
+    // définition du service personnalisé Google Analytics
+    tarteaucitron.services.servicePersoCyb_GGA = {
+        "key": "servicePersoCyb_GGA",
+        "type": "analytic",
+        "name": "Google Analytics",
+        "needConsent": true,
+        "cookies": ['_ga', '_gat', '_gid', '__utma', '__utmb', '__utmc', '__utmt', '__utmz'],
+        "readmoreLink": "", // If you want to change readmore link
+        "js": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'TAC_servicePersoCyb_GGA-accepte',
+                TAC_servicePersoCyb_GGA : 'true'
+            });
+        },
+        "fallback": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                    event: 'TAC_servicePersoCyb_GGA-refus',
+                    TAC_servicePersoCyb_GGA : 'false'
+                });
+            }
+        };
+        
+        
+    // googleadwordsconversion
+    tarteaucitron.services.servicePersoCyb_GADW = {
+        "key": "servicePersoCyb_GADW",
+        "type": "ads",
+        "name": "Google Adwords (conversion)",
+        "uri": "https://www.google.com/settings/ads",
+        "needConsent": true,
+        "cookies": [],
+        "js": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'TAC_servicePersoCyb_GADW-accepte',
+                TAC_servicePersoCyb_GADW : 'true'
+            });
+        },
+        "fallback": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                    event: 'TAC_servicePersoCyb_GADW-refus',
+                    TAC_servicePersoCyb_GADW : 'false'
+                });
+            }
+    };
+
+    // googleadwordsremarketing
+    tarteaucitron.services.servicePersoCyb_GADWR = {
+        "key": "servicePersoCyb_GADWR",
+        "type": "ads",
+        "name": "Google Adwords (remarketing)",
+        "uri": "https://www.google.com/settings/ads",
+        "needConsent": true,
+        "cookies": [],
+        "js": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'TAC_servicePersoCyb_GADWR-accepte',
+                TAC_servicePersoCyb_GADWR : 'true'
+            });
+        },
+        "fallback": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                    event: 'TAC_servicePersoCyb_GADWR-refus',
+                    TAC_servicePersoCyb_GADWR : 'false'
+                });
+            }
+    };
+
+    // facebook pixel
+    tarteaucitron.services.servicePersoCyb_FB = {
+        "key": "servicePersoCyb_FB",
+        "type": "ads",
+        "name": "Facebook Pixel",
+        "uri": "https://fr-fr.facebook.com/business/help/www/651294705016616",
+        "needConsent": true,
+        "cookies": ['datr', 'fr', 'reg_ext_ref', 'reg_fb_gate', 'reg_fb_ref', 'sb', 'wd', 'x-src'],
+        "js": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'TAC_servicePersoCyb_FB-accepte',
+                TAC_servicePersoCyb_FB : 'true'
+            });
+        },
+        "fallback": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                    event: 'TAC_servicePersoCyb_FB-refus',
+                    TAC_servicePersoCyb_FB : 'false'
+                });
+            }
+    };
+
+
+    // Advertise-Me pixel
+    tarteaucitron.services.servicePersoCyb_ADV_me = {
+        "key": "servicePersoCyb_ADV_me",
+        "type": "ads",
+        "name": "Advertise-Me",
+        "uri": "",
+        "needConsent": true,
+        "cookies": [],
+        "js": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'TAC_servicePersoCyb_ADV_me-accepte',
+                TAC_servicePersoCyb_ADV_me : 'true'
+            });
+        },
+        "fallback": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                    event: 'TAC_servicePersoCyb_ADV_me-refus',
+                    TAC_servicePersoCyb_ADV_me : 'false'
+                });
+            }
+    };
+
+    // Linkedin
+    tarteaucitron.services.servicePersoLinkedIn = {
+        "key": "servicePersoLinkedIn",
+        "type": "ads",
+        "name": "Linkedin Insight",
+        "uri": "",
+        "needConsent": true,
+        "cookies": ["UserMatchHistory", "AnalyticsSyncHistory", "li_oatml", "lms_ads", "lms_analytics", "li_fat_id", "li_sugr", "U", "_guid", "BizographicsOptOut"],
+        "js": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                event: 'TAC_servicePersoLinkedIn-accepte',
+                TAC_servicePersoLinkedIn : 'true'
+            });
+        },
+        "fallback": function () {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                    event: 'TAC_servicePersoLinkedIn-refus',
+                    TAC_servicePersoLinkedIn : 'false'
+                });
+            }
+    };
+
+
+    
+    
+    // Pingdom
+    tarteaucitron.services.servicePerso_pingdom = {
+        "key": "servicePerso_pingdom",
+        "type": "analytic",
+        "name": "Pingdom",
+        "uri": "",
+        "needConsent": true,
+        "cookies": ['__cfduid'],
+        "js": function () {
+            "use strict";
+            tarteaucitron.addScript('//rum-static.pingdom.net/pa-5f894f66dfb2d5001300005e.js');
+        },
+        "fallback": function () {
+            "use strict";
+            // Fallback
+        }
+    }; 
+    
+
+    // chargement des services personnalisés
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePersoCyb_GGA');
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePersoCyb_GADW');
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePersoCyb_GADWR');
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePersoCyb_FB');
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePerso_pingdom');
+    (tarteaucitron.job = tarteaucitron.job || []).push('hotjar');
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePersoCyb_ADV_me');
+    (tarteaucitron.job = tarteaucitron.job || []).push('servicePersoLinkedIn');
+    
+</script>
+
+<script type="text/javascript">tarteaucitron.user.hotjarId = 1862889;tarteaucitron.user.HotjarSv = 6;</script>
+        
+
+
+    
+<script type="text/javascript">
+            var instagramnew_DISPLAY = 1;
+            var instagramnew_TITLE = false;
+            var instagramnew_USERID = 'maison_colibri';
+            var instagramnew_TOKEN = false;
+            var instagramnew_TYPE = 'user';
+            var instagramnew_TAG = false;
+            var instagramnew_LIMIT = 8;
+            var instagramnew_PAGE_LIMIT = 16;
+            var instagramnew_DISPLAY_CAROUSEL = 1;
+            var instagramnew_NB = 8;
+            var instagramnew_MARGIN = 5000;
+            var instagramnew_LOOP = 1;
+            var instagramnew_NAV = 1;
+            var instagramnew_DOTS = false;
+            var instagramnew_EXT = false;
+    </script>
+
+
+
+    
+    </head>
+
+
+<body id="cms" class="lang-en country-fr currency-eur layout-full-width page-cms tax-display-enabled cms-id-9
+   body-desktop-header-style-w-4
+ wave-particulier">
+ 
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7DT467&nojscript=true"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<main id="main-page-content"  >
+    
+            
+
+    <!--
+     CLIENT/PRO
+     -->
+        <header id="header" class="desktop-header-style-w-4">
+        <!--
+    FIN CLIENT/PRO
+    -->
+        
+            
+  <div class="header-banner">
+    
+  </div>
+
+
+
+
+            <div class="container">
+        <nav class="header-nav">
+    
+        <div class="row justify-content-between">
+            <div class="col col-auto col-md left-nav">
+                                
+            </div>
+            <div class="col col-auto center-nav text-center">
+                
+             </div>
+            <div class="col col-auto col-md right-nav text-right">
+                
+             </div>
+        </div>
+
+                        </nav>
+            </div>
+        
+
+
+
+<div id="desktop-header" class="desktop-header-style-4">
+            
+
+
+<div class="header-top">
+    <div id="desktop-header-container" class="container">
+        <div class="row align-items-center">
+                            <div class="col col-auto col-header-left">
+                    <div id="desktop_logo">
+                        <a href="https://www.maison-colibri.com/">
+                            <img class="logo img-fluid"
+                                 src="/img/pianezza-logo-1560763925.jpg"                                  alt="Maison Colibri">
+                        </a>
+                    </div>
+                    
+                </div>
+                <div class="col col-header-center col-header-menu">
+                    
+                    <!-- ICI displayMainMenu start : WAVE20190514 -->           <div id="iqitmegamenu-wrapper" class="iqitmegamenu-wrapper iqitmegamenu-all">
+    <div class="container container-iqitmegamenu">
+        <div id="iqitmegamenu-horizontal" class="iqitmegamenu  clearfix" role="navigation">
+
+            
+                <div class="cbp-vertical-on-top">
+                    <!-- BREIZHWAVE vertical.tpl -->                </div>
+                        
+            <nav id="cbp-hrmenu" class="cbp-hrmenu cbp-horizontal cbp-hrsub-narrow">
+                <ul>
+                                            <li id="cbp-hrmenu-tab-2" class="cbp-hrmenu-tab cbp-hrmenu-tab-2 ">
+                            <a href="https://www.maison-colibri.com/en/info/produits" class="nav-link" >
+
+                                    <span class="cbp-tab-title">
+                                        Sample tab <i class="fa fa-angle-down cbp-submenu-aindicator"></i></span>
+                                                                    </a>
+                                                        </li>
+                                            <li id="cbp-hrmenu-tab-3" class="cbp-hrmenu-tab cbp-hrmenu-tab-3 ">
+                            <a href="https://www.maison-colibri.com/en/info/la-marque" class="nav-link" >
+
+                                    <span class="cbp-tab-title">
+                                        Sample tab <i class="fa fa-angle-down cbp-submenu-aindicator"></i></span>
+                                                                    </a>
+                                                        </li>
+                                            <li id="cbp-hrmenu-tab-29" class="cbp-hrmenu-tab cbp-hrmenu-tab-29 ">
+                            <a href="https://www.maison-colibri.com/en/info/contact" class="nav-link" >
+
+                                    <span class="cbp-tab-title">
+                                        Contact</span>
+                                                                    </a>
+                                                        </li>
+                                            <li id="cbp-hrmenu-tab-50" class="cbp-hrmenu-tab cbp-hrmenu-tab-50 ">
+                            <a href="https://www.maison-colibri.com/en/info/entreprise-demande-de-devis" class="nav-link" >
+
+                                    <span class="cbp-tab-title">
+                                        Entreprises</span>
+                                                                    </a>
+                                                        </li>
+                    
+                    
+
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div id="sticky-cart-wrapper"></div>
+</div>
+
+<div id="_desktop_iqitmegamenu-mobile">
+    <ul id="iqitmegamenu-mobile">
+        
+
+
+
+    
+    <li class="waveMenuMobileSample tab"><a href="https://www.maison-colibri.com/en/info/produits">Sample tab</a></li><li class="waveMenuMobileSample tab"><a href="https://www.maison-colibri.com/en/info/la-marque">Sample tab</a></li><li class="waveMenuMobileContact"><a href="https://www.maison-colibri.com/en/info/contact">Contact</a></li><li class="waveMenuMobileEntreprises"><a href="https://www.maison-colibri.com/en/info/entreprise-demande-de-devis">Entreprises</a></li>
+
+<form  action="/fr/inscription-pro?create_account=1"
+      method="post" id="wave-mobile-form-nav-proaccount">
+    <div class="submit">
+        <input type="hidden" value="my-account" name="back" class="hidden">
+        <input type="hidden" value="Compte pro"
+               name="SubmitCreate" class="hidden">
+    </div></form>            </ul>
+</div>
+  <!-- ICI displayMainMenu end: WAVE20190514 -->
+                    
+                </div>
+                        <div class="col col-auto col-header-right">
+                <div class="row no-gutters justify-content-end">
+                    
+                    
+                                            <div id="header-search-btn" class="col col-auto header-btn-w header-search-btn-w">
+    <a data-toggle="dropdown" id="header-search-btn-drop"  class="header-btn header-search-btn" data-display="static">
+        <i class="fa fa-search fa-fw icon" aria-hidden="true"></i>
+        <span class="title">Search</span>
+    </a>
+            <div class="dropdown-content dropdown-menu dropdown-search">
+            
+<!-- Block search module TOP -->
+<div id="search_widget" class="search-widget" data-search-controller-url="//www.maison-colibri.com/en/search?order=product.position.desc">
+    <form method="get" action="//www.maison-colibri.com/en/search?order=product.position.desc">
+        <input type="hidden" name="controller" value="search">
+        <div class="input-group">
+            <input type="hidden" name="order" value="product.position.desc" />
+            <input type="text" name="s" value="" data-all-text="Show all results"
+                   placeholder="Search our catalog" class="form-control form-search-control" />
+            <button type="submit" class="search-btn">
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </form>
+</div>
+<!-- /Block search module TOP -->
+
+        </div>
+    </div>
+                    
+                    
+                                            <div id="header-user-btn" class="col col-auto header-btn-w header-user-btn-w">
+            <a 
+                href="/en/login?back=/"
+                   title="Log in to your customer account"
+           rel="nofollow" class="header-btn header-user-btn">
+            <div id="icon-user">
+              <?xml version="1.0" encoding="utf-8"?>              <svg version="1.1" id="Calque_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"
+              viewBox="0 0 60 60" xml:space="preserve">
+                <g>
+                  <g>
+                    <path d="M51.2,38.8c-3.3-3.3-7.2-5.7-11.4-7.2c4.5-3.1,7.5-8.4,7.5-14.3C47.3,7.8,39.6,0,30,0S12.7,7.8,12.7,17.3
+                c0,5.9,3,11.2,7.5,14.3c-4.2,1.5-8.1,3.9-11.4,7.2C3.1,44.5,0,52,0,60h4.7C4.7,46,16,34.7,30,34.7S55.3,46,55.3,60H60
+                C60,52,56.9,44.5,51.2,38.8z M30,30c-7,0-12.7-5.7-12.7-12.7S23,4.7,30,4.7s12.7,5.7,12.7,12.7S37,30,30,30z"/>
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <span class="title">Sign in</span>
+        </a>
+    </div>
+
+                                        
+
+                                            
+                                                    <div id="ps-shoppingcart-wrapper" class="col col-auto">
+    <div id="ps-shoppingcart"
+         class="header-btn-w header-cart-btn-w ps-shoppingcart side-cart">
+         <div id="blockcart" class="blockcart cart-preview"
+         data-refresh-url="//www.maison-colibri.com/en/module/ps_shoppingcart/ajax">
+        <a id="cart-toogle" class="cart-toogle header-btn header-cart-btn" data-toggle="dropdown" data-display="static">
+            <!-- <i class="fa fa-shopping-bag fa-fw icon" aria-hidden="true"><span class="cart-products-count-btn">0</span></i> -->
+            <div class="icon-cart">
+                <?xml version="1.0" encoding="utf-8"?>                <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 60 60" xml:space="preserve">
+                    <g>
+                        <g>
+                            <path d="M14.9,47.4c0.1,0,0.1,0,0.2,0c0.5-0.1,0.8-0.6,0.7-1l-2.3-12c-0.1-0.5-0.6-0.8-1-0.7c-0.5,0.1-0.8,0.6-0.7,1l2.3,12
+                    C14.1,47.1,14.5,47.4,14.9,47.4z"/>
+                            <path d="M24.8,47.4C24.8,47.4,24.8,47.4,24.8,47.4c0.6,0,0.9-0.5,0.9-1l-1-12c0-0.5-0.5-0.9-1-0.8c-0.5,0-0.9,0.5-0.8,1l1,12
+                    C23.9,47,24.3,47.4,24.8,47.4z"/>
+                            <path d="M44.9,47.4c0.4,0,0.8-0.3,0.9-0.7l2.3-12c0.1-0.5-0.2-0.9-0.7-1c-0.5-0.1-0.9,0.2-1,0.7l-2.3,12c-0.1,0.5,0.2,0.9,0.7,1
+                    C44.8,47.4,44.8,47.4,44.9,47.4z"/>
+                            <path d="M35.1,47.4c0.5,0,0.8-0.4,0.9-0.8l1-12c0-0.5-0.3-0.9-0.8-1c-0.5,0-0.9,0.3-1,0.8l-1,12C34.1,46.9,34.5,47.3,35.1,47.4
+                    C35,47.4,35,47.4,35.1,47.4z"/>
+                            <path d="M59.1,22.3L59.1,22.3l-1.8,0H41.5h-5.9H22.4h-6.7H3.8H1.9H1.1c-0.8,0-1.5,0.7-1.5,1.5v4.6c0,0.8,0.7,1.5,1.5,1.5h2.1
+                    l0.7,3.9c0.1,0.5,0.5,0.8,1,0.7c0.5-0.1,0.8-0.5,0.7-1L5,29.8h49.8l-3.1,17.9c-0.4,2.1-2.1,3.5-4.2,3.5H12.3
+                    c-2.1,0-3.9-1.5-4.2-3.5L6.4,37.5c-0.1-0.5-0.5-0.8-1-0.7s-0.8,0.5-0.7,1L6.4,48c0.5,2.9,3,5,6,5h35.1c2.9,0,5.5-2.1,6-5l3.2-18.2
+                    h2.1c0.8,0,1.5-0.7,1.5-1.5v-4.6C60.2,23,59.7,22.4,59.1,22.3z M58.4,28h-57v-4h15.7c0.1,0,0.2,0,0.3,0h23c0.1,0,0.1,0,0.2,0h17.6
+                    c0.1,0,0.2,0,0.3,0V28z"/>
+                        </g>
+                        <path d="M44.8,12.3c-0.2-0.5-0.1-1.1,0.4-1.4c0.5-0.3,1.1-0.1,1.4,0.4c0,0,0,0.1,0.1,0.1l8.6,11.8h2.6l-9.4-13
+                    c-0.8-1.4-2.7-2-4.2-1.1c-1.5,0.8-2,2.7-1.2,4.2c0,0,0.1,0.1,0.1,0.1l7.4,9.8h2.6L44.8,12.3z"/>
+                        <path d="M15.7,9.2c-1.5-0.8-3.3-0.3-4.2,1.1l-9.4,13h2.6l8.6-11.8c0,0,0-0.1,0.1-0.1c0.3-0.5,0.9-0.7,1.4-0.4
+                    c0.5,0.3,0.7,0.9,0.4,1.4L6.9,23.3h2.6l7.4-9.8c0,0,0.1-0.1,0.1-0.1C17.8,11.9,17.3,10,15.7,9.2z"/>
+                    </g>
+                </svg>
+                <span class="cart-products-count-btn">0</span>
+            </div>
+            <span class="info-wrapper">
+            <!-- <span class="title">Cart</span> -->
+            <span class="cart-toggle-details">
+            <span class="text-faded cart-separator"> / </span>
+                            <span class="value">Your cart : <b>Empty</b></span>
+                        </span>
+            </span>
+        </a>
+        <div id="_desktop_blockcart-content" class="dropdown-menu-custom dropdown-menu">
+    <div id="blockcart-content" class="blockcart-content" >
+        <div class="cart-title">
+            <span class="modal-title">Your cart</span>
+            <button type="button" id="js-cart-close" class="close">
+                <span>×</span>
+            </button>
+            <hr>
+        </div>
+                    <span class="no-items">There are no more items in your cart</span>
+            </div>
+</div> </div>
+
+
+
+
+    </div>
+</div>
+                                                
+                                    </div>
+                
+            </div>
+            <div class="col-12">
+                <div class="row">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+
+    <div id="mobile-header" class="mobile-header-style-1">
+                    <div id="mobile-header-sticky">
+    <div class="container">
+        <div class="mobile-main-bar">
+            <div class="row no-gutters align-items-center row-mobile-header">
+                <div class="col col-auto col-mobile-btn col-mobile-btn-menu col-mobile-menu-push">
+                    <a class="m-nav-btn" data-toggle="dropdown" data-display="static"><i class="fa fa-bars" aria-hidden="true"></i>
+                        <span>Menu</span></a>
+                    <div id="_mobile_iqitmegamenu-mobile" class="dropdown-menu-custom dropdown-menu"></div>
+                </div>
+                <div class="col col-mobile-logo text-center">
+                    <a href="https://www.maison-colibri.com/">
+                        <img class="logo img-fluid"
+                             src="/img/pianezza-logo-1560763925.jpg"                              alt="Maison Colibri">
+                    </a>
+                </div>
+                <div class="col col-auto col-mobile-btn col-mobile-btn-account">
+                    <a href="https://www.maison-colibri.com/en/my-account" class="m-nav-btn">
+                        <div class="btn-user-mobile">
+                            <?xml version="1.0" encoding="utf-8"?>                            <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <path d="M51.2,38.8c-3.3-3.3-7.2-5.7-11.4-7.2c4.5-3.1,7.5-8.4,7.5-14.3C47.3,7.8,39.6,0,30,0S12.7,7.8,12.7,17.3c0,5.9,3,11.2,7.5,14.3c-4.2,1.5-8.1,3.9-11.4,7.2C3.1,44.5,0,52,0,60h4.7C4.7,46,16,34.7,30,34.7S55.3,46,55.3,60H60C60,52,56.9,44.5,51.2,38.8z M30,30c-7,0-12.7-5.7-12.7-12.7S23,4.7,30,4.7s12.7,5.7,12.7,12.7S37,30,30,30z"/>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                        <span>Sign in</span>
+                    </a>
+                </div>
+                
+                                <div class="col col-auto col-mobile-btn col-mobile-btn-cart ps-shoppingcart side-cart">
+                    <div id="mobile-cart-wrapper">
+                    <a id="mobile-cart-toogle"  class="m-nav-btn" data-toggle="dropdown" data-display="static">
+                        <div class="btn-cart-mobile">
+                            <?xml version="1.0" encoding="utf-8"?>                            <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <path d="M14.9,47.4c0.1,0,0.1,0,0.2,0c0.5-0.1,0.8-0.6,0.7-1l-2.3-12c-0.1-0.5-0.6-0.8-1-0.7c-0.5,0.1-0.8,0.6-0.7,1l2.3,12C14.1,47.1,14.5,47.4,14.9,47.4z"/>
+                                        <path d="M24.8,47.4C24.8,47.4,24.8,47.4,24.8,47.4c0.6,0,0.9-0.5,0.9-1l-1-12c0-0.5-0.5-0.9-1-0.8c-0.5,0-0.9,0.5-0.8,1l1,12C23.9,47,24.3,47.4,24.8,47.4z"/>
+                                        <path d="M44.9,47.4c0.4,0,0.8-0.3,0.9-0.7l2.3-12c0.1-0.5-0.2-0.9-0.7-1c-0.5-0.1-0.9,0.2-1,0.7l-2.3,12c-0.1,0.5,0.2,0.9,0.7,1C44.8,47.4,44.8,47.4,44.9,47.4z"/>
+                                        <path d="M35.1,47.4c0.5,0,0.8-0.4,0.9-0.8l1-12c0-0.5-0.3-0.9-0.8-1c-0.5,0-0.9,0.3-1,0.8l-1,12C34.1,46.9,34.5,47.3,35.1,47.4C35,47.4,35,47.4,35.1,47.4z"/>
+                                        <path d="M59.1,22.3L59.1,22.3l-1.8,0H41.5h-5.9H22.4h-6.7H3.8H1.9H1.1c-0.8,0-1.5,0.7-1.5,1.5v4.6c0,0.8,0.7,1.5,1.5,1.5h2.1l0.7,3.9c0.1,0.5,0.5,0.8,1,0.7c0.5-0.1,0.8-0.5,0.7-1L5,29.8h49.8l-3.1,17.9c-0.4,2.1-2.1,3.5-4.2,3.5H12.3c-2.1,0-3.9-1.5-4.2-3.5L6.4,37.5c-0.1-0.5-0.5-0.8-1-0.7s-0.8,0.5-0.7,1L6.4,48c0.5,2.9,3,5,6,5h35.1c2.9,0,5.5-2.1,6-5l3.2-18.2h2.1c0.8,0,1.5-0.7,1.5-1.5v-4.6C60.2,23,59.7,22.4,59.1,22.3z M58.4,28h-57v-4h15.7c0.1,0,0.2,0,0.3,0h23c0.1,0,0.1,0,0.2,0h17.6c0.1,0,0.2,0,0.3,0V28z"/>
+                                    </g>
+                                    <path d="M44.8,12.3c-0.2-0.5-0.1-1.1,0.4-1.4c0.5-0.3,1.1-0.1,1.4,0.4c0,0,0,0.1,0.1,0.1l8.6,11.8h2.6l-9.4-13c-0.8-1.4-2.7-2-4.2-1.1c-1.5,0.8-2,2.7-1.2,4.2c0,0,0.1,0.1,0.1,0.1l7.4,9.8h2.6L44.8,12.3z"/>
+                                    <path d="M15.7,9.2c-1.5-0.8-3.3-0.3-4.2,1.1l-9.4,13h2.6l8.6-11.8c0,0,0-0.1,0.1-0.1c0.3-0.5,0.9-0.7,1.4-0.4c0.5,0.3,0.7,0.9,0.4,1.4L6.9,23.3h2.6l7.4-9.8c0,0,0.1-0.1,0.1-0.1C17.8,11.9,17.3,10,15.7,9.2z"/>
+                                    </g>
+                            </svg>
+                            <span id="mobile-cart-products-count" class="cart-products-count cart-products-count-btn">
+                                
+                                                                    0
+                                                                
+                            </span>
+                        </div>
+                        <span>Cart</span></a>
+                    <div id="_mobile_blockcart-content" class="dropdown-menu-custom dropdown-menu"></div>
+                    </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+</div>
+
+
+            </div>
+
+
+<div class="footer-header-pro">
+                    <div class="block-social-links">
+            
+
+<ul class="social-links _footer">
+  <li class="facebook"><a href="https://www.facebook.com/maisoncolibri/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>    <li class="instagram"><a href="https://www.instagram.com/maison_colibri/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>          <li class="linkedin"><a href="https://fr.linkedin.com/company/maison-colibri" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li></ul>
+
+        </div>
+                <div class="copyright-txt">
+            Copyright © 2021 Maison Colibri 
+        </div>
+    </div>
+
+        
+    </header>
+	
+    <section id="wrapper">
+        
+        
+
+
+<nav data-depth="2" class="breadcrumb">
+            <div class="container">
+                <div class="row align-items-center">
+                <div class="col">
+                    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+                        
+                                                            
+                                    <li itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ListItem">
+                                        <a  itemtype="http://schema.org/Thing"
+                                            itemprop="item" href="https://www.maison-colibri.com/en/" >
+                                            <span itemprop="name">Home</span>
+                                        </a>
+                                        <meta itemprop="position" content="1">
+                                    </li>
+                                
+                                                            
+                                    <li itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ListItem">
+                                        <a  itemtype="http://schema.org/Thing"
+                                            itemprop="item" href="https://www.maison-colibri.com/en/info/contact" >
+                                            <span itemprop="name">Contact</span>
+                                        </a>
+                                        <meta itemprop="position" content="2">
+                                    </li>
+                                
+                                                    
+                    </ol>
+                </div>
+                <div class="col col-auto"> </div>
+            </div>
+                    </div>
+        </nav>
+
+        <div id="inner-wrapper" class="container">
+            
+
+            
+            
+                
+<aside id="notifications">
+    
+    
+    
+    </aside>
+            
+
+		
+			
+            
+
+                
+    <div id="content-wrapper">
+        
+        
+
+  <section id="main">
+
+    
+  <section id="content" class="page-content page-cms page-cms-9">
+
+    
+      
+    <div class="rte-content"></div>
+
+
+    
+
+    
+      
+    
+
+  </section>
+
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+        
+    </div>
+
+
+                
+
+                
+
+            
+            
+        </div>
+        
+    </section>
+
+    <footer id="footer">
+        
+            
+  
+
+  <div id="block-reassurance">
+                <ul>
+                                                                    <li>
+            <div class="block-reassurance-item"
+                >
+                <div class="icon">
+                                                                        <img class="img fluid" src="/modules/blockreassurance/img/reassurance-1-1.jpg">
+                                                            </div>
+                <div class="text">
+                    <p class="title" ></p>
+                    <p ></p>
+                </div>
+            </div>
+        </li>
+                                                                          <li>
+            <div class="block-reassurance-item"
+                >
+                <div class="icon">
+                                                                        <img class="img fluid" src="/modules/blockreassurance/views/img/img_perso/reassurance-2-1.jpg">
+                                                            </div>
+                <div class="text">
+                    <p class="title" ></p>
+                    <p ></p>
+                </div>
+            </div>
+        </li>
+                                                                          <li>
+            <div class="block-reassurance-item"
+                >
+                <div class="icon">
+                                                                        <img class="img fluid" src="/modules/blockreassurance/views/img/img_perso/reassurance-3-1.jpg">
+                                                            </div>
+                <div class="text">
+                    <p class="title" ></p>
+                    <p ></p>
+                </div>
+            </div>
+        </li>
+                                                                          <li>
+            <div class="block-reassurance-item"
+                >
+                <div class="icon">
+                                                                        <img class="img fluid" src="/modules/blockreassurance/views/img/img_perso/reassurance-4-1.jpg">
+                                                            </div>
+                <div class="text">
+                    <p class="title" ></p>
+                    <p ></p>
+                </div>
+            </div>
+        </li>
+              </ul>
+</div>
+
+
+
+<div id="footer-container-first" class="footer-container footer-style-3">
+  <div class="container">
+    <div class="row">
+ 
+      <div class="col newsletter-img newsletter-img-left">
+        <img src="/themes/maison-colibri/assets/img/newsletter_left.jpg">
+      </div>
+      <div class="col block-newsletter">
+        <div class="newsletter-title">Sign up to newsletter</div>
+        <p>Pour avoir toutes les derni&egrave;res actus gourmandes</p>
+        <div class="ps-emailsubscription-block">
+    <form action="//www.maison-colibri.com/en/?fc=module&module=iqitemailsubscriptionconf&controller=subscription"
+          method="post">
+                <div class="input-group newsletter-input-group ">
+                    <div class="newsletter-input">
+                        <input
+                            name="email"
+                            type="email"
+                            value=""
+                            class="form-control input-subscription"
+                            placeholder="Your email address"
+                        >
+                    </div>
+                    <button
+                            class="btn btn-secondary"
+                            name="submitNewsletter"
+                            type="submit"
+                    >Je m&#039;inscris</button>
+                </div>
+                    <div class="mt-2 text-muted"> </div>
+                        <input type="hidden" name="action" value="0">
+    </form>
+</div>
+
+
+      </div>
+      <div class="col newsletter-img newsletter-img-right">
+        <img src="/themes/maison-colibri/assets/img/newsletter_right.jpg">
+      </div>
+
+    </div>
+    <div class="row">
+    </div>
+  </div>
+</div>
+
+<div id="footer-container-end">
+  <div class="footer-container-end-container">
+    <div id="footer-container-main" class="footer-container footer-style-3">
+      <div class="container">
+        <div class="row">
+          
+            
+    <div class="col col-md block block-toggle block-iqitcontactpage js-block-toggle">
+        <div class="block-title"><span>Contact us</span></div>
+        <div class="block-content">
+            
+
+    <div class="contact-rich">
+                    <div class="part">
+                <p>iqitcontactpage - module, you can put own text in configuration</p>
+            </div>
+            </div>
+
+        </div>
+    </div>
+
+            <div class="col col-md block block-toggle block-iqitlinksmanager block-iqitlinksmanager-3 block-links js-block-toggle">
+            <div class="block-title"><span>LA MARQUE</span></div>
+            <div class="block-content">
+                <ul>
+                                                                        <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/la-marque"
+                                        title=""                                >
+                                    La marque
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/nos-engagements"
+                                        title=""                                >
+                                    Nos engagements
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/histoire"
+                                        title=""                                >
+                                    Une fabrication francaise
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/nos-equipes"
+                                        title=""                                >
+                                    Notre équipe
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/points-de-vente"
+                                        title=""                                >
+                                    Nous trouver
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/recrutement"
+                                        title=""                                >
+                                    REcrutement
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/faq"
+                                        title=""                                >
+                                    FAQ Elementor
+                                </a>
+                            </li>
+                                                            </ul>
+            </div>
+        </div>
+                <div class="col col-md block block-toggle block-iqitlinksmanager block-iqitlinksmanager-5 block-links js-block-toggle">
+            <div class="block-title"><span>MENTIONS LÉGALES</span></div>
+            <div class="block-content">
+                <ul>
+                                                                        <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/mentions-legales"
+                                        title="Mentions légales"                                >
+                                    Mentions légales
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/conditions-utilisation"
+                                        title="Nos conditions d&#039;utilisation"                                >
+                                    Conditions d&#039;utilisation
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/rgpd"
+                                        title=""                                >
+                                    RGPD
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href=""
+                                                                        >
+                                    
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/politique-cookies"
+                                        title=""                                >
+                                    Politique cookies
+                                </a>
+                            </li>
+                                                                                                <li>
+                                <a
+                                        href="https://www.maison-colibri.com/en/info/mentions-sanitaires"
+                                        title=""                                >
+                                    Mentions sanitaires
+                                </a>
+                            </li>
+                                                            </ul>
+            </div>
+        </div>
+    
+          
+        </div>
+        <div class="row">
+          
+            
+          
+        </div>
+      </div>
+    </div>
+    
+    
+        <div id="footer-copyrights" class="_footer-copyrights-2 dropup">
+            <div class="container">
+                <div class="row">
+
+                                            <div class="col-12 copyright-img ">
+                            <img src="/img/cms/maison_colibri.png" class="img-fluid" alt="Maison Colibri"/>
+                        </div>
+                                                            <div class="col-12 block-social-links">
+                        
+
+<ul class="social-links _footer">
+  <li class="facebook"><a href="https://www.facebook.com/maisoncolibri/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>    <li class="instagram"><a href="https://www.instagram.com/maison_colibri/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>          <li class="linkedin"><a href="https://fr.linkedin.com/company/maison-colibri" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li></ul>
+
+                    </div>
+                                        
+                    <div class="col-12 copyright-txt">
+                        Copyright © 2021 Maison Colibri 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    
+  </div>
+</div>
+
+
+        
+    </footer>
+
+</main>
+
+
+      <script type="text/javascript" src="https://www.maison-colibri.com/themes/maison-colibri/assets/cache/bottom-8a0086511.js" ></script>
+
+
+<script>var waveScrollTo=false</script>
+
+
+
+    
+<div id="iqitwishlist-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="modal-title">You need to login or create account</span>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <section class="login-form">
+                   <p> Save products on your wishlist to buy them later or share with your friends.</p>
+                    
+
+
+
+  
+
+
+  
+      
+
+    <form  id="login-form-modal" action="https://www.maison-colibri.com/en/login"   method="post">
+
+    <section>
+      
+                  
+            
+
+
+  
+    <input type="hidden" name="back" value="">
+  
+
+
+          
+                  
+            
+
+
+  <div class="form-group row align-items-center ">
+    <label class="col-md-2 col-form-label required">
+              Email
+          </label>
+    <div class="col-md-8">
+
+      
+        
+          <input
+            class="form-control"
+            name="email"
+            type="email"
+            value=""
+                                    required          >
+                  
+
+      
+      
+              
+
+    </div>
+
+    <div class="col-md-2 form-control-comment">
+      
+              
+    </div>
+  </div>
+
+
+          
+                  
+            
+
+
+  <div class="form-group row align-items-center ">
+    <label class="col-md-2 col-form-label required">
+              Password
+          </label>
+    <div class="col-md-8">
+
+      
+        
+          <div class="input-group js-parent-focus">
+            <input
+              class="form-control js-child-focus js-visible-password"
+              name="password"
+              title="At least 5 characters long"
+              autocomplete="new-password"              type="password"
+              value=""
+              pattern=".{5,}"
+              required            >
+            <span class="input-group-append">
+              <button
+                class="btn btn-outline-secondary"
+                type="button"
+                data-action="show-password"
+              >
+               <i class="fa fa-eye-slash" aria-hidden="true"></i>
+              </button>
+            </span>
+          </div>
+        
+
+      
+      
+              
+
+    </div>
+
+    <div class="col-md-2 form-control-comment">
+      
+              
+    </div>
+  </div>
+
+
+          
+              
+      <div class="forgot-password">
+        <a href="https://www.maison-colibri.com/en/password-recovery" rel="nofollow">
+          Forgot your password?
+        </a>
+      </div>
+    </section>
+
+    
+      <footer class="form-footer text-center clearfix">
+        <input type="hidden" name="submitLogin" value="1">
+        
+          <button id="submit-login" class="btn btn-secondary form-control-submit" data-link-action="sign-in" type="submit">
+            Sign in
+          </button>
+        
+      </footer>
+    
+
+  </form>
+  
+
+
+                </section>
+                <hr/>
+                
+                    
+
+<script type="text/javascript">
+    
+    function iqitSocialPopup(url) {
+        var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+        var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+        var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+        var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+        var left = ((width / 2) - (600 / 2)) + dualScreenLeft;
+        var top = ((height / 2) - (600 / 2)) + dualScreenTop;
+        var newWindow = window.open(url, '_blank', 'scrollbars=yes,top=' + top + ',left=' + left + ',width=600,height=600');
+        if (window.focus) {
+            newWindow.focus();
+        }
+    }
+    
+</script>
+
+                
+                <div class="no-account">
+                    <a href="https://www.maison-colibri.com/en/login?create_account=1" data-link-action="display-register-form">
+                        No account? Create one here
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="iqitwishlist-notification" class="ns-box ns-effect-thumbslider ns-text-only">
+    <div class="ns-box-inner">
+        <div class="ns-content">
+            <span class="ns-title"><i class="fa fa-check" aria-hidden="true"></i> <strong>Product added to wishlist</strong></span>
+        </div>
+    </div>
+</div>
+
+
+<button id="back-to-top">
+    <i class="fa fa-angle-up" aria-hidden="true"></i>
+</button>
+
+
+
+</body>
+
+</html>
